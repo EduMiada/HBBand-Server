@@ -1,7 +1,6 @@
-# web-passport-json-web-token
+# Hacking Bees Band Server
 
 Lab Sails JS 1.0 - Utilizando Passport com estratégia local e geração de Token JWT
-
 
 
 ### Instalação
