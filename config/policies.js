@@ -17,11 +17,12 @@ module.exports.policies = {
   *                                                                          *
   ***************************************************************************/
 
-  // '*': true,
+  '*': true,
   '*': 'isAuthenticated',
  
   AuthController: {
       '*': true
   }
 
+  //'POST /v1/api/band':"*",
 };
